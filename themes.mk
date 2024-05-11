@@ -444,3 +444,7 @@ PRODUCT_PACKAGES += \
     QSReflected \
     QSSurround \
     QSThin
+
+# A11QSUI
+PRODUCT_PACKAGES += \
+    A11QSUI
